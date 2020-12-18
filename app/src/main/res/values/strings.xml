@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotification</string>
+    <string name="channel_name">Jacky</string>
+    <string name="channel_description">Jacky Show</string>
+</resources>
